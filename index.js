@@ -53,6 +53,7 @@ function productInputValue (product){
 
 
 
+
 // //phone
 // function handlePhone(isIncrease){
 //     const phoneInput = document.getElementById('phone-count');
